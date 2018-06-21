@@ -10,5 +10,5 @@ python2 online.py
 # senitopeng.blogspot.com
 
 ```
-<img src=".image/menu"/>
+<img src=".image/menu.png"/>
 ```
