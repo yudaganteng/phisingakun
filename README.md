@@ -6,3 +6,5 @@ unzip 'Scp Facebook - Pulsa Gratis.zip'
 python2 akun.py
 `` `
 
+#Tutoril
+#Termux
